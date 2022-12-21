@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Chrome Extension Study
+
+## Hello Extensions Development basics
+
+manifest.json file in the extension's root directory
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
